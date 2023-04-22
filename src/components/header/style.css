@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header{
+    background-color: #14103B;
+    height: 5em;
+    width: 100%;
+    color: white;
+    text-align: center; 
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1em; 
+    padding: 1.9em 0 0 0;
+}
+
+header p{
+    color: aliceblue;
+    font-size: 1.7em;
+}
+
+
+
+
